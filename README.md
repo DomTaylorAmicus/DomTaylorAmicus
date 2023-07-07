@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dom Taylor
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning Go programming
+- 💞️ I help Software Engineers find Go roles on the East Coast
+- 📫 How to reach me dominic.taylor@amicusjobs.com
